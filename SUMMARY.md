@@ -1,13 +1,18 @@
-# Table of contents
-
-* [Introduction](README.md)
-
 ## 新手指南
-
-* [术语说明](xin-shou-zhi-nan/shu-yu-shuo-ming.md)
-* [Untitled](xin-shou-zhi-nan/untitled.md)
+* [什么是网宿云存储](guide/what-is-wcs.md)
+* [功能概述](guide/wcs-overview.md)
+* [平台使用管理](guide/wcs-console-guide.md)
 
 ## API
 
-* [Untitled](api/untitled.md)
+* [术语说明](api/api-names.md)
+* [安全机制](api/auth.md)
+	* [上传凭证](api/upload-policy.md)
+	* [上传策略说明]()
+	* [管理凭证]()
+* [空间管理]()
+* [文件管理]()
+* [附录]()
+
+## SDK&工具
 
